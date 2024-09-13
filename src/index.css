@@ -1,0 +1,36 @@
+.input {
+  padding: 10px;
+  width: 300px;
+  border: 1px solid transparent;
+  outline: none;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  border-radius: 4px;
+  margin-right: 8px;
+}
+
+.btn {
+  height: 36px;
+  min-width: 60px;
+  border: 1px solid transparent;
+  font-size: 14px;
+  font-weight: 500;
+  border-radius: 6px;
+  margin: 0 4px;
+  cursor: pointer;
+}
+
+.btn-edit {
+  background-color: #cd5f1b;
+  color: #fff;
+}
+
+.btn-add {
+  background-color: rgb(12, 137, 190);
+  color: #ffff;
+}
+
+.item {
+  list-style: none;
+  font-size: 20px;
+  font-weight: 600;
+}
